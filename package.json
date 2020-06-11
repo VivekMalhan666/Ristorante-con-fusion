@@ -1,0 +1,25 @@
+{
+  "name": "fullstackdev",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn npm and Node.js",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekMalhan666/using_node.js.git"
+  },
+  "author": "Vivek Malhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekMalhan666/using_node.js/issues"
+  },
+  "homepage": "https://github.com/VivekMalhan666/using_node.js#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {}
+}
