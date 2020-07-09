@@ -1,2 +1,2 @@
-# Ristorante-con-fusion
-# This a bootsrap framework based website built  using node.js tools and deployement ready using grunt and gulp
+## Ristorante-con-fusion
+This a bootsrap framework based website, which is built using *node.js* and is deployement ready from front-end perspective compiled using *grunt and gulp*.
